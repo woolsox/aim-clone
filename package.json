@@ -1,0 +1,23 @@
+{
+  "name": "aim-clone",
+  "version": "1.0.0",
+  "description": "An attempt at recreating AOL Instant Messenger with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woolsox/aim-clone.git"
+  },
+  "author": "woolsox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woolsox/aim-clone/issues"
+  },
+  "homepage": "https://github.com/woolsox/aim-clone#readme",
+  "devDependencies": {
+    "electron": "^4.1.1"
+  }
+}
