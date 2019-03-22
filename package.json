@@ -4,7 +4,7 @@
   "description": "An attempt at recreating AOL Instant Messenger with Electron",
   "main": "main.js",
   "scripts": {
-    "start": "electron",
+    "start": "electron .",
     "test": "test"
   },
   "repository": {
