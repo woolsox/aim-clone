@@ -1,0 +1,25 @@
+* {
+  background-color: #D3D3D3;
+  margin: auto;
+}
+
+.sign-on-header {
+  text-align: center;
+  background-color: blue;
+  margin: 10px;
+}
+
+.aim-logo {
+  padding: 20px;
+  background-color: blue;
+  height: 150px;
+  width: 150px;
+}
+
+h2 {
+  background-color: blue;
+}
+
+.sign-on-form {
+  text-align: center;
+}
